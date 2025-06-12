@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Anton/projects/Snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\main.cpp.obj -c C:\\Anton\\projects\\Snake\\main.cpp",
+  "file": "C:/Anton/projects/Snake/main.cpp",
+  "output": "CMakeFiles/snake.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Anton/projects/Snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\MainWindow.cpp.obj -c C:\\Anton\\projects\\Snake\\MainWindow.cpp",
+  "file": "C:/Anton/projects/Snake/MainWindow.cpp",
+  "output": "CMakeFiles/snake.dir/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Anton/projects/Snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\GLWidget.cpp.obj -c C:\\Anton\\projects\\Snake\\GLWidget.cpp",
+  "file": "C:/Anton/projects/Snake/GLWidget.cpp",
+  "output": "CMakeFiles/snake.dir/GLWidget.cpp.obj"
+},
+{
+  "directory": "C:/Anton/projects/Snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\StartScreen.cpp.obj -c C:\\Anton\\projects\\Snake\\StartScreen.cpp",
+  "file": "C:/Anton/projects/Snake/StartScreen.cpp",
+  "output": "CMakeFiles/snake.dir/StartScreen.cpp.obj"
+},
+{
+  "directory": "C:/Anton/projects/Snake/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/snake.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\snake.dir\\Label.cpp.obj -c C:\\Anton\\projects\\Snake\\Label.cpp",
+  "file": "C:/Anton/projects/Snake/Label.cpp",
+  "output": "CMakeFiles/snake.dir/Label.cpp.obj"
+}
+]
